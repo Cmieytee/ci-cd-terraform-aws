@@ -1,4 +1,6 @@
-# The project is designed to automate the deployment of infrastructure and a Dockerized application using Terraform, AWS services, and GitHub Actions. Here's an overview of the key components and steps involved in the project:
+# The project is designed to automate the deployment of infrastructure and a Dockerized application using Terraform, AWS services, and GitHub Actions. 
+
+Here's an overview of the key components and steps involved in the project:
 
 Project Overview: Continuous Deployment with Terraform and Docker
 
